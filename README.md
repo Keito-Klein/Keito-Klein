@@ -7,4 +7,6 @@
   <a href="https://wa.wizard.id/2fd29f">WhatsApp</a>
  </p>
  
- <img alt="https://github.com/Keito-Klein/MiKako-ID/blob/main/assets/ezgif-7-25eba9edb92e.gif" width = "80%">
+ <div align="center">
+   <img src="https://github.com/Keito-Klein/MiKako-ID/blob/main/assets/ezgif-7-25eba9edb92e.gif" width = "80%">
+ </div>
