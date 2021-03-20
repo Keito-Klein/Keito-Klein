@@ -1,5 +1,5 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Yahallo minna!
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="30px"> **I'm MiKako**
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="30px"> **I'm MiKako** &nbsp;
 
 <br>
 <div align="center">
