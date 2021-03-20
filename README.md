@@ -10,7 +10,7 @@
  </div>
  <br>
  
-<img src="https://github.com/Keito-Klein/Keito-Klein/blob/main/assets/okaerinasai.gif" width="50"> **Okaerinasai o jōshi-sama**
+
  
  <div align="center">
    <img src="https://github.com/Keito-Klein/MiKako-ID/blob/main/assets/ezgif-7-25eba9edb92e.gif" width = "80%">
