@@ -20,8 +20,6 @@
  <br>
  <br>
  
-  **K-391, Alan Walker & Ahrix - End of Time**
- 
  <div align="center">
   
   **K-391, Alan Walker & Ahrix - End of Time**
