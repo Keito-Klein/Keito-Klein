@@ -26,7 +26,6 @@
   
   <img src="https://github.com/Keito-Klein/Keito-Klein/blob/main/assets/image/lovemusic.png" width="60%">
  </div>
- <br>
  
 ## About Me
 <div align="center">
