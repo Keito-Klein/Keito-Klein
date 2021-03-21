@@ -20,12 +20,12 @@
  <br>
  <br>
  
- <p align="center">
-  
   **K-391, Alan Walker & Ahrix - End of Time**
- </p>
  
  <div align="center">
+  
+  **K-391, Alan Walker & Ahrix - End of Time**
+  
   <img src="https://github.com/Keito-Klein/Keito-Klein/blob/main/assets/image/lovemusic.png" width="60%">
  </div>
  <br>
