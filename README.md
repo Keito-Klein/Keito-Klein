@@ -59,11 +59,15 @@
 
 **📫 Email me:** taufikqillah25@gmail.com
 
-<div align="center">
-  
-  ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=keito-klein&show_icons=true&hide_border=true)
-  
-</div>
+<br>
+ <a href="https://github.com/Keito-Klein">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=keito-klein&show_icons=true&theme=dark" width="40%" alt="MiKako's Stats"/>
+ </a>
+ 
+ <a href="https://github.com/Keito-Klein/whatsapp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keito-klein&repo=whatsapp&theme=dark" width="45%" />
+ </a>
 
+<br>
 
 ## Cheers: **El Psy Congroo**
