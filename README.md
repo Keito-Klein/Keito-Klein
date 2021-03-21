@@ -10,16 +10,30 @@
  </div>
  <br>
  
-<img src="https://github.com/Keito-Klein/Keito-Klein/blob/main/assets/okaerinasai.gif" width="50"> **Okaerinasai o jōshi-sama**
+<img src="https://github.com/Keito-Klein/Keito-Klein/blob/main/assets/okaerinasai.gif" width="50"> **Okaerinasaimasen o jōshi-sama**
  
  <div align="center">
    <img src="https://github.com/Keito-Klein/MiKako-ID/blob/main/assets/ezgif-7-25eba9edb92e.gif" width = "80%">
  </div>
  
  <br>
+ <br>
+ <br>
+ 
+ <p align="center">
+  
+  **K-391, Alan Walker & Ahrix - End of Time**
+ </p>
+ 
+ <div align="center">
+  <img src="https://github.com/Keito-Klein/Keito-Klein/blob/main/assets/image/lovemusic.png" width="60%">
+ </div>
+ <br>
  
 ## About Me
 <div align="center">
+  
+**My Photo** && **My Village**
   
 |<img src="https://github.com/Keito-Klein/MiKako-ID/blob/main/assets/WhatsApp%20Image%202021-03-20%20at%2013.24.35.jpeg" width = "40%"> | <img src="https://github.com/Keito-Klein/MiKako-ID/blob/main/assets/image/field.jpg" width = "40%"> |
 
@@ -38,7 +52,11 @@
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="24"> **Currently Learning:** JavaScript / ECMAScript
 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="24"> **Programing Age:** 2 month😅
+
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="24"> **Pronouns:** He/Him
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24"> **Age:** 17yo
 
 **😴 Fun Fact:** My smartness 💡 lies in my laziness
 
