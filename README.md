@@ -10,10 +10,10 @@
  </div>
  <br>
  
-<img src="https://github.com/Keito-Klein/Keito-Klein/blob/main/assets/okaerinasai.gif" width="50"> **Okaerinasaimasen o jōshi-sama**
+<img src="https://github.com/Keito-Klein/Keito-Klein/blob/main/assets/okaerinasai.gif" alt="Okaerinasaimasen" width="50"> **Okaerinasaimasen o jōshi-sama**
  
  <div align="center">
-   <img src="https://github.com/Keito-Klein/MiKako-ID/blob/main/assets/ezgif-7-25eba9edb92e.gif" width = "80%">
+   <img src="https://github.com/Keito-Klein/MiKako-ID/blob/main/assets/ezgif-7-25eba9edb92e.gif" alt="Okaerinasaimasen - lovelive" width = "80%">
  </div>
  
  <br>
@@ -45,7 +45,7 @@
 </p>
 <br>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="24"> **Current Project:** WhatsApp BOT
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="24"> **Current Project:** <a href="https://github.com/FReck-Teams/WhatsApp-Bot" >WhatsApp-BOT
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="24"> **Currently Learning:** JavaScript / ECMAScript
 
@@ -59,7 +59,7 @@
 
 **📫 Email me:** taufikqillah25@gmail.com
 
-<br>
+<hr>
  <a href="https://github.com/Keito-Klein">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=keito-klein&show_icons=true&theme=dark" width="40%" alt="MiKako's Stats"/>
  </a>
@@ -68,6 +68,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keito-klein&repo=whatsapp&theme=dark" width="45%" />
  </a>
 
-<br>
+<hr>
 
 ## Cheers: **El Psy Congroo**
