@@ -45,7 +45,7 @@
 </p>
 <br>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="24"> **Current Project:** <a href="https://github.com/FReck-Teams/WhatsApp-Bot" >WhatsApp-BOT
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="24"> **Current Project:** <a href="https://github.com/FReck-Teams/WhatsApp-Bot" >WhatsApp-BOT</a>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="24"> **Currently Learning:** JavaScript / ECMAScript
 
