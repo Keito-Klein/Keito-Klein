@@ -47,13 +47,13 @@
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="24"> **Current Project:** <a href="https://github.com/FReck-Teams/WhatsApp-Bot" >WhatsApp-BOT</a>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="24"> **Currently Learning:** JavaScript / ECMAScript & HTML
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="24"> **Currently Learning:** JavaScript / ECMAScript & CSS
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="24"> **Programing Age:** 2 month😅
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="24"> **Programing Age:** 5 month😅
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="24"> **Pronouns:** He/Him
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24"> **Age:** 17yo
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24"> **Age:** 18yo
 
 **😴 Fun Fact:** My smartness 💡 lies in my laziness
 
@@ -64,8 +64,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=keito-klein&show_icons=true&theme=dark" width="40%" alt="MiKako's Stats"/>
  </a>
  
- <a href="https://github.com/Keito-Klein/whatsapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keito-klein&repo=whatsapp&theme=dark" width="45%" />
+ <a href="https://github.com/Keito-Klein/WiBot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keito-klein&repo=WiBot&theme=dark" width="45%" />
  </a>
 
 <hr>
