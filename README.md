@@ -13,7 +13,7 @@
 <img src="https://github.com/Keito-Klein/Keito-Klein/blob/main/assets/okaerinasai.gif" alt="Okaerinasaimasen" width="50"> **Okaerinasaimasen o jōshi-sama**
  
  <div align="center">
-   <img src="https://github.com/Keito-Klein/MiKako-ID/blob/main/assets/ezgif-7-25eba9edb92e.gif" alt="Okaerinasaimasen - lovelive" width = "80%">
+   <img src="https://github.com/Keito-Klein/MiKako-ID/blob/main/assets/ezgif-7-25eba9edb92e.gif" alt="Okaerinasaimasen - lovelive" width = "70%">
  </div>
  
  <br>
