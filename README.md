@@ -49,7 +49,7 @@
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="24"> **Currently Learning:** JavaScript / ECMAScript & CSS
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="24"> **Programing Age:** 5 month😅
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="24"> **Programing Age:** 8 month😅
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="24"> **Pronouns:** He/Him
 
