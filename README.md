@@ -20,20 +20,13 @@
  <br>
  <br>
  
- <div align="center">
-  
-  **K-391, Alan Walker & Ahrix - End of Time**
-  
-  <img src="https://github.com/Keito-Klein/Keito-Klein/blob/main/assets/image/lovemusic.png" width="60%">
- </div>
- 
 ## About Me
 <div align="center">
   
 **My Photo** && **My Village**
-  
+  <div style="border: 2px solid white">
 |<img src="https://github.com/Keito-Klein/MiKako-ID/blob/main/assets/WhatsApp%20Image%202021-03-20%20at%2013.24.35.jpeg" width = "40%"> | <img src="https://github.com/Keito-Klein/MiKako-ID/blob/main/assets/image/field.jpg" width = "40%"> |
-
+  </div>
 </div>
 
 <br>
@@ -47,9 +40,9 @@
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="24"> **Current Project:** <a href="https://github.com/FReck-Teams/WhatsApp-Bot" >WhatsApp-BOT</a>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="24"> **Currently Learning:** JavaScript / ECMAScript & CSS
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="24"> **Currently Learning:** ReactJs & NodeJs
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="24"> **Programing Age:** 8 month😅
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="24"> **Programing Age:** 1 years😅
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="24"> **Pronouns:** He/Him
 
