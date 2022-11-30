@@ -21,13 +21,6 @@
  <br>
  
 ## About Me
-<div align="center">
-  
-**My Photo** && **My Village**
-  <div style="border: 2px solid white">
-|<img src="https://github.com/Keito-Klein/MiKako-ID/blob/main/assets/WhatsApp%20Image%202021-03-20%20at%2013.24.35.jpeg" width = "40%"> | <img src="https://github.com/Keito-Klein/MiKako-ID/blob/main/assets/image/field.jpg" width = "40%"> |
-  </div>
-</div>
 
 <br>
 <p>
