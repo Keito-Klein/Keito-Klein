@@ -31,7 +31,7 @@
 </p>
 <br>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="24"> **Current Project:** <a href="https://github.com/FReck-Teams/WhatsApp-Bot" >WhatsApp-BOT</a>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="24"> **Current Project:** <a href="https://github.com/keito-klein/t-bot" >WhatsApp-BOT</a>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="24"> **Currently Learning:** ReactJs & NodeJs
 
@@ -39,7 +39,7 @@
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="24"> **Pronouns:** He/Him
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24"> **Age:** 18yo
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24"> **Age:** 19yo
 
 **😴 Fun Fact:** My smartness 💡 lies in my laziness
 
