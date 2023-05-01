@@ -50,8 +50,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=keito-klein&show_icons=true&theme=dark" width="40%" alt="MiKako's Stats"/>
  </a>
  
- <a href="https://github.com/Keito-Klein/WiBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keito-klein&repo=WiBot&theme=dark" width="45%" />
+ <a href="https://github.com/Keito-Klein/Vertibus">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keito-klein&repo=Vertibus&theme=dark" width="45%" />
  </a>
 
 <hr>
