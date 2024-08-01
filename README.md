@@ -3,8 +3,22 @@
 <br>
 
 <div align="center">
+  <p>Contact Me on:</p>
   
- [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="30">](https://www.instagram.com/gamerz_garena/) [<img src="https://user-images.githubusercontent.com/77515527/111603419-ebab8580-8806-11eb-9e32-7ff359641d32.png" alt="facebook logo" width="30">](https://www.facebook.com/taufik.qillah.73) [<img src="https://user-images.githubusercontent.com/77515527/111604893-60cb8a80-8808-11eb-8402-4318318c5aa2.jpg" alt="whatsapp logo" width="30">](https://wa.wizard.id/2fd29f) 
+ [<img src="assets/instagram_icon.svg" alt="instagram logo" width="40">](https://www.instagram.com/gamerz_garena/) [<img src="assets/facebook_icon.svg" alt="facebook logo" width="40">](https://www.facebook.com/taufik.qillah.73) [<img src="assets/whatsapp_icon.svg" alt="whatsapp logo" width="40">](https://wa.wizard.id/b83d19)
+
+  <br>
+  <p>My Tools:</p>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" width="40"/>
   
  </div>
  <br>
