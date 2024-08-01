@@ -1,5 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi There!
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="30px"> **I'm MiKako** &nbsp;
+![header](https://capsule-render.vercel.app/api?type=slice&height=200&text=Hi%20There!&fontAlignY=30&fontAlign=70&rotate=13&desc=i'M%20MiKako&descAlign=59&descAlignY=45)
 
 <br>
 
