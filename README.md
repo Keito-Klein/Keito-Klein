@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&height=200&text=Hi%20There!&fontAlignY=30&fontAlign=70&rotate=13&desc=i'M%20MiKako&descAlign=59&descAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=slice&height=200&section=header&&color=30:ecfa23,70:47fa23&text=Hi%20There!&fontAlignY=30&fontAlign=70&rotate=13&desc=i'M%20MiKako&descAlign=59&descAlignY=45)
 
 <br>
 
@@ -50,13 +50,15 @@
 
 <hr>
  <a href="https://github.com/Keito-Klein">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=keito-klein&show_icons=true&theme=dark" width="40%" alt="MiKako's Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=keito-klein&show_icons=true&theme=calm" width="40%" alt="MiKako's Stats"/>
  </a>
  
  <a href="https://github.com/Keito-Klein/Vertibus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keito-klein&repo=Vertibus&theme=dark" width="45%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keito-klein&repo=Vertibus&theme=ayu-mirage" width="45%" />
  </a>
 
-<hr>
+<br>
+<br>
+<br>
 
-## Cheers: **El Psy Congroo**
+![footer](https://capsule-render.vercel.app/api?type=slice&height=200&color=30:47fa23,70:ecfa23&text=El%20Psy%20Congroo&section=footer&fontAlign=36&fontAlignY=83&rotate=11&desc=Cheers:&descAlign=8&descAlignY=54&descSize=23)
