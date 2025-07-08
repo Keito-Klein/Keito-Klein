@@ -5,7 +5,9 @@
 <div align="center">
   <p>Contact Me on:</p>
   
- [<img src="assets/instagram_icon.svg" alt="instagram logo" width="40">](https://www.instagram.com/gamerz_garena/) [<img src="assets/facebook_icon.svg" alt="facebook logo" width="40">](https://www.facebook.com/taufik.qillah.73) [<img src="assets/whatsapp_icon.svg" alt="whatsapp logo" width="40">](https://wa.wizard.id/b83d19)
+ [<img src="assets/instagram_icon.svg" alt="instagram logo" width="40">](https://www.instagram.com/gamerz_garena/) [<img src="assets/facebook_icon.svg" alt="facebook logo" width="40">](https://www.facebook.com/taufik.qillah.73) [<img src="assets/whatsapp_icon.svg" alt="whatsapp logo" width="40">](https://wa.wizard.id/b83d19) [<img src="assets/discord.png" alt="Discord Logo" width="40">](https://discord.com/users/532737345280147477)
+ 
+[![Discord Presence](https://lanyard.cnrad.dev/api/532737345280147477?theme=dark&showDisplayName=true)](https://discord.com/users/532737345280147477)
 
   <br>
   <p>My Tools:</p>
