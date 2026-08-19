@@ -55,10 +55,12 @@
 <hr>
 
 <div align="center">
-  
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Keito-Klein&layout=compact&theme=tokyonight)
+<br>
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Keito-Klein&show_icons=true&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Keito-Klein&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Keito-Klein&layout=compact&theme=tokyonight)
+
 </div>
 <hr>
 <br>
