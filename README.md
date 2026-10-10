@@ -34,21 +34,21 @@
 <p>
   <em>
     I want to be a programmer since i found a WhatsApp BOT, because it's so fun when I find a feature that I made by myself. Since then coding has become my main hobby.
-    emm... I have nothing else to say more. just that😅
+    
   </em>
 </p>
 <br>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="24"> **Current Project:** <a href="https://github.com/keito-klein/vertibus" >Vertibus</a>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="24"> **Currently Learning:** NodeJs
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="24"> **Currently Learning:** ReactJs
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="24"> **Programing Age:** 4 years😅
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="24"> **Pronouns:** He/Him
 
 
-**😴 Fun Fact:** My smartness 💡 lies in my laziness
+**😴 Fun Fact:** likes to experiment
 
 **📫 Email me:** taufikqillah25@gmail.com
 
